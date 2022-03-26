@@ -1,0 +1,133 @@
+{
+	"main": {
+		"name": "Mustaneer Haider",
+		"occupation": "Full Stack Developer",
+		"description": "I eat, sleep and breathe React",
+		"image": "profilepic.jpg",
+		"bio": "I am a Full Stack Developer and a Self-Learner. I have been coding for over 3 years now. I have always been passionate about everything related to technology and programming, especially the web professions, which I made my career by always giving the best I can as a Web Developer. I always find coding a very engaging hobby, bringing a Code up to life & taking shape step-by-step is a blast.",
+		"contactmessage": "Get in touch with me.",
+		"email": "mostanirha1der19@gmail.com",
+		"phone": "+92 3078322011",
+		"address": {
+			"street": "Street #3, Gulbahar No. 4",
+			"city": "Peshawar",
+			"state": "Pakistan",
+			"zip": "250000"
+		},
+		"website": "https://www.papareact.com/course",
+		"resumedownload": "http://papareact.com",
+		"social": [
+			{
+				"name": "facebook",
+				"url": "https://www.facebook.com/munro19/",
+				"className": "fa fa-facebook"
+			},
+			{
+				"name": "linkedin",
+				"url": "https://www.linkedin.com/in/mustaneer-haider-a58a94209/",
+				"className": "fa fa-linkedin"
+			},
+			{
+				"name": "instagram",
+				"url": "https://www.instagram.com/em_munro225/",
+				"className": "fa fa-instagram"
+			},
+			{
+				"name": "github",
+				"url": "https://github.com/MustaneerHaider",
+				"className": "fa fa-github"
+			}
+		]
+	},
+	"resume": {
+		"skillmessage": "My Programming Language Proficiency",
+		"education": [
+			{
+				"school": "Institute of Management Sciences, Peshawar",
+				"degree": "Bachelor's Degree, Software Engineering",
+				"graduated": "2019 - 2023",
+				"description": "Studying"
+			}
+		],
+		"skills": [
+			{
+				"name": "Next.js",
+				"level": "90%"
+			},
+			{
+				"name": "MERN Stack",
+				"level": "95%"
+			},
+			{
+				"name": "Python",
+				"level": "75%"
+			},
+			{
+				"name": "Git",
+				"level": "80%"
+			},
+			{
+				"name": "JavaScript",
+				"level": "89%"
+			},
+			{
+				"name": "TypeScript",
+				"level": "85%"
+			},
+			{
+				"name": "Tailwind CSS",
+				"level": "85%"
+			},
+			{
+				"name": "Firebase",
+				"level": "90%"
+			}
+		]
+	},
+	"portfolio": {
+		"projects": [
+			{
+				"title": "Food Corner (MERN Stack + Typescript)",
+				"category": "",
+				"image": "food-corner.jpg",
+				"url": "https://food-corner-mern.netlify.app/"
+			},
+			{
+				"title": "Medium Clone (Next.js + Typescript)",
+				"category": "",
+				"image": "medium.jpg",
+				"url": "https://medium-clone-munrofit.vercel.app/"
+			},
+			{
+				"title": "Instagram Clone (Next.js)",
+				"category": "",
+				"image": "instagram.jpg",
+				"url": "https://instagram-clone-munrofit.vercel.app/"
+			},
+			{
+				"title": "Airbnb Clone (Next.js)",
+				"category": "",
+				"image": "airbnb.jpg",
+				"url": "https://airbnb-clone-munrofit.vercel.app/"
+			},
+			{
+				"title": "Hulu Clone (Next.js)",
+				"category": "",
+				"image": "hulu.jpg",
+				"url": "https://hulu-clone-munrofit.vercel.app/"
+			},
+			{
+				"title": "Covid-19 Tracker (React.js + Material UI)",
+				"category": "",
+				"image": "covid-tracker.jpg",
+				"url": "https://hulu-clone-munrofit.vercel.app/"
+			},
+			{
+				"title": "Drag-and-Drop (React.js + Typescript)",
+				"category": "",
+				"image": "ts-dnd.jpg",
+				"url": "https://hulu-clone-munrofit.vercel.app/"
+			}
+		]
+	}
+}
