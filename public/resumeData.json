@@ -120,13 +120,19 @@
 				"title": "Covid-19 Tracker (React.js + Material UI)",
 				"category": "",
 				"image": "covid-tracker.jpg",
-				"url": "https://hulu-clone-munrofit.vercel.app/"
+				"url": "https://covid-tracker-bb3c14.netlify.app/"
 			},
 			{
 				"title": "Drag-and-Drop (React.js + Typescript)",
 				"category": "",
 				"image": "ts-dnd.jpg",
-				"url": "https://hulu-clone-munrofit.vercel.app/"
+				"url": "https://todolistdnd.netlify.app/"
+			},
+			{
+				"title": "Rock paper Scissor (React.js + Styled Componenets)",
+				"category": "",
+				"image": "rps.jpg",
+				"url": "https://rock-paper-scissors-1032021.netlify.app/"
 			}
 		]
 	}
